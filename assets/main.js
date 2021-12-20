@@ -33,6 +33,54 @@ const app = {
     config: JSON.parse(localStorage.getItem(PLAYER_STORAGE_KEY)) || {},
     songs : [
         {
+            name: "Love Me Like You Do",
+            author: ["Ellie Goulding"],
+            path: "./assets/songs/song34.mp3",
+            image: "./assets/img/song34.jpg"
+        },
+        {
+            name: "Why Not Me",
+            author: ["Enrique Iglesias"],
+            path: "./assets/songs/song35.mp3",
+            image: "./assets/img/song35.jpg"
+        },
+        {
+            name: "We Don't Talk Anymore",
+            author: ["Charlie Puth ft. Selena Gomez"],
+            path: "./assets/songs/song36.mp3",
+            image: "./assets/img/song36.jpg"
+        },
+        {
+            name: "Shape Of You",
+            author: ["Ed Sheeran"],
+            path: "./assets/songs/song37.mp3",
+            image: "./assets/img/song37.jpg"
+        },
+        {
+            name: "2002",
+            author: ["Anne-Marie"],
+            path: "./assets/songs/song38.mp3",
+            image: "./assets/img/song38.jpg"
+        },
+        {
+            name: "Leyla",
+            author: ["Mesto"],
+            path: "./assets/songs/song39.mp3",
+            image: "./assets/img/song39.jpg"
+        },
+        {
+            name: "Play Date",
+            author: ["Melanie Martinez"],
+            path: "./assets/songs/song40.mp3",
+            image: "./assets/img/song40.jpg"
+        },
+        {
+            name: "I'm Not Her",
+            author: ["Clara Mae"],
+            path: "./assets/songs/song41.mp3",
+            image: "./assets/img/song41.jpg"
+        },
+        {
             name: "Tình Đầu",
             author: ["Tăng Duy Tân"],
             path: "./assets/songs/song33.mp3",
